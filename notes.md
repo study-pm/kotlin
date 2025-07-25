@@ -7,3 +7,4 @@
     - [Usage / Область применения](./docs/01_Intro.md#usage--область-применения)
   - [Kotlin Get Started / Что такое Kotlin](./docs/01_Intro.md#kotlin-get-started--что-такое-kotlin)
     - [Экосистема Kotlin](./docs/01_Intro.md#экосистема-kotlin)
+    - [История Kotlin](./docs/01_Intro.md#история-kotlin)
